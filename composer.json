@@ -3,7 +3,7 @@
     "description": "Extension for PHPStan to allow analysis of Magento 1 code.",
     "type": "library",
     "require": {
-        "phpstan/phpstan": "0.11.*"
+        "phpstan/phpstan": "*"
     },
     "autoload": {
         "psr-4": {
